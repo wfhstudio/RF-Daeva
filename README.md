@@ -2,8 +2,8 @@
 
 ROTARY---
 BUTTON_PIN 25    //before changed: original 27
-ROTARY_PIN_A 12     //CLK Resistor to 5V
-ROTARY_PIN_B 15     //DT Resistor to 5V
+ROTARY_PIN_A 12     //CLK 
+ROTARY_PIN_B 15     //DT 
 ROTARY_BUTTON_PIN 25  //SW before changed: original 27
 
 BUTTON---
